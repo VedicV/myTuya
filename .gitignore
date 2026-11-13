@@ -1,1 +1,9 @@
 .DS_Store
+
+# Local generated graph artifacts
+graphify-out/
+graphify-out-scoped/
+.understand-anything/
+
+# Local technical tools
+/tools/
